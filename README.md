@@ -1,0 +1,2 @@
+# cursor
+AI Code generate
